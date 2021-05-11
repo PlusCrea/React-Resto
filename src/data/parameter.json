@@ -1,0 +1,160 @@
+{  "Place": [
+    {
+      "_id": "Abidjan/Abobo",
+      "name": "Abidjan/Abobo"
+    },
+    {
+      "_id": "Abidjan/Adjamé",
+      "name": "Abidjan/Adjamé"
+    },
+    {
+      "_id": "Abidjan/Angré",
+      "name": "Abidjan/Angré"
+    },
+    {
+      "_id": "Abidjan/Anyama",
+      "name": "Abidjan/Anyama"
+    },
+    {
+      "_id": "Abidjan/Attécoubé",
+      "name": "Abidjan/Attécoubé"
+    },
+    {
+      "_id": "Abidjan/Biétry ",
+      "name": "Abidjan/Biétry "
+    },
+    {
+      "_id": "Abidjan/Bingerville",
+      "name": "Abidjan/Bingerville"
+    },
+    {
+      "_id": "Abidjan/Cocody",
+      "name": "Abidjan/Cocody"
+    },
+    {
+      "_id": "Abidjan/Koumassi",
+      "name": "Abidjan/Koumassi"
+    },
+    {
+      "_id": "Abidjan/Marcory",
+      "name": "Abidjan/Marcory"
+    },
+    {
+      "_id": "Abidjan/Le Plateau ",
+      "name": "Abidjan/Le Plateau "
+    },
+    {
+      "_id": "Abidjan/2 Plateaux",
+      "name": "Abidjan/2 Plateaux"
+    },
+    {
+      "_id": "Abidjan/Port Bouet",
+      "name": "Abidjan/Port Bouet"
+    },
+    {
+      "_id": "Abidjan/Riviera",
+      "name": "Abidjan/Riviera"
+    },
+    {
+      "_id": "Abidjan/Treichville",
+      "name": "Abidjan/Treichville"
+    },
+    {
+      "_id": "Abidjan/Yopougon",
+      "name": "Abidjan/Yopougon"
+    },
+    {
+      "_id": "Abidjan/Zone 4",
+      "name": "Abidjan/Zone 4"
+    },
+    {
+      "_id": "Bouaké",
+      "name": "Bouaké"
+    },
+    {
+      "_id": "Abidjan",
+      "name": "Abidjan"
+    },
+    {
+      "_id": "Daloa",
+      "name": "Daloa"
+    },
+    {
+      "_id": "Korhogo",
+      "name": "Korhogo"
+    },
+    {
+      "_id": "San-Pédro",
+      "name": "San-Pédro"
+    },
+    {
+      "_id": "Yamoussoukro",
+      "name": "Yamoussoukro"
+    }
+  ],
+   "Category2": [
+    {
+      "_id": "Vehicule",
+      "name": "Vehicule",
+      "image":"https://firebasestorage.googleapis.com/v0/b/kabakaba-v2.appspot.com/o/imgforsite%2Fvehicule.png?alt=media&token=d89e9c50-d52c-473e-a629-356edd4777c6"
+    },
+    {
+      "_id": "Immobilier",
+      "name": "Immobilier",
+      "image":"https://firebasestorage.googleapis.com/v0/b/kabakaba-v2.appspot.com/o/imgforsite%2Fimmobilier.png?alt=media&token=9543686f-9811-4c30-a0f8-2f09b4f6374e"
+    },
+    {
+      "_id": "Electronique",
+      "name": "Electronique",
+      "image":"https://firebasestorage.googleapis.com/v0/b/kabakaba-v2.appspot.com/o/imgforsite%2Felectronique.png?alt=media&token=4a9ef8fa-af0e-42e6-8901-0ab2a64d35c6"
+    },
+    {
+      "_id": "Service",
+      "name": "Service",
+      "image":"https://firebasestorage.googleapis.com/v0/b/kabakaba-v2.appspot.com/o/imgforsite%2Fservice.png?alt=media&token=7bdaee70-8f6d-43da-b6f9-3740e8477b12"
+    },
+    {
+      "_id": "Emploi",
+      "name": "Emploi",
+      "image":"https://firebasestorage.googleapis.com/v0/b/kabakaba-v2.appspot.com/o/imgforsite%2Femploi.png?alt=media&token=4219ddf6-d9d8-4df5-85af-febbd0a7b473"
+    },
+    {
+      "_id": "Maison & Jardin",
+      "name": "Maison & Jardin",
+      "image":"https://firebasestorage.googleapis.com/v0/b/kabakaba-v2.appspot.com/o/imgforsite%2Fmaison.png?alt=media&token=5bdd4c37-6336-4237-b29d-32ddc72f5c9d"
+    },
+    {
+      "_id": "Mode",
+      "name": "Mode",
+      "image":"https://firebasestorage.googleapis.com/v0/b/kabakaba-v2.appspot.com/o/imgforsite%2Fmode.png?alt=media&token=1759f5c1-356a-4e56-8923-1982d251aacb"
+    },
+    {
+      "_id": "Animaux",
+      "name": "Animaux",
+      "image":"https://firebasestorage.googleapis.com/v0/b/kabakaba-v2.appspot.com/o/imgforsite%2Fanimaux.png?alt=media&token=a9695cc3-eb0e-43f8-9c3d-b87a9269ea0f"
+    }
+  ],
+   "Category": [
+    {
+      "_id": "Drinks",
+      "name": "Drinks"
+    },
+    {
+      "_id": "Lunch",
+      "name": "Lunch"
+    },
+    {
+      "_id": "Dinner",
+      "name": "Dinner"
+    }
+  ]
+}
+
+ 
+  
+ 
+
+
+
+
+
